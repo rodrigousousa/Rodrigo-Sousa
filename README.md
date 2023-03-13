@@ -10,7 +10,8 @@ I am also a student at [Universidade Anhembi Morumbi](https://portal.anhembi.br/
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [zotmicecfal@gmail.com](mailto:zotmicecfal@gmail.com)
-* 🚀  I am currently working at the NSO Group responsible for Companies; [Auto Viação Santa Brigida](http://santabrigida.com.br/), [Auto Viação Caieiras](http://viacaocaieiras.com.br/), [Auto Viação Urubupungá](http://urubupunga.com.br/), [Urubupungá Transportes e Turismo](http://www.urubupungaturismo.com.br/)
+* 🚀  I am currently working at the NSO Group responsible for Companies; 
+* [Auto Viação Santa Brigida](http://santabrigida.com.br/), [Auto Viação Caieiras](http://viacaocaieiras.com.br/), [Auto Viação Urubupungá](http://urubupunga.com.br/), [Urubupungá Transportes e Turismo](http://www.urubupungaturismo.com.br/)
 * 🧠  I'm learning advanced Javascript, Python and React-js, unit testing and C/C++ programming languages
 * 🤝  I am open to collaborating on high impact projects on people's lives
 * ⚡  I love sports and my favorite is Football
