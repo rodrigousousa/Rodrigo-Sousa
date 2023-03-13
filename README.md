@@ -1,7 +1,7 @@
 Hi 👋 My name is Rodrigo
 ==========================
 
-Software Enginner Intern
+Software Enginner
 -----------------------------
 
 I'm a 20 year old software engineer and a tech lover. I love programming and figuring out how to solve deep problems using technology. My main focus is front and back-end development, making applications that impact the lives of thousands of users.
